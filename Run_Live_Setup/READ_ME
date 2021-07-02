@@ -1,0 +1,10 @@
+Run_live command set-up:
+
+In order to set-up the command "run_live" that automatically will launch a psiturk server, get a debug link, change the link to a live version of the experiment (which is useful for working with status codes for participants) and copy the link to your clipboard, do the following:
+
+1. cd into this folder in command line
+2. change your permissions using "chmod +x create_run_live.sh"
+3. run the file using "./create_run_live.sh"
+4. Delete this read_me, the shell script and the folder this came in (the command will not work again -- unless redownloaded -- as it has already moved a file required for it to work).
+
+By: Kiawehokua Tarnas, khtarnas@gmail.com
