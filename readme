@@ -1,3 +1,0 @@
-This folder contains all the files that were used to create the capabilities of the comand "run_live" -- a command that allows you to write one command and get a live debug server up for psiturk, a process that would normally take numerous steps. 
-
-In order to add the alias "run_live" to your .bash_profile, download the Run_Live_Setup.zip file and run the provided shell script. If you need further directions, reference the README in the folder that will appear after unzipping the downloaded file. 
