@@ -1,3 +1,9 @@
+**Project Description:**
+
+A project to help expedite a process that I and others in the lab I was working found to be repetitive and tedious where I used very basic shell scripting to write a script that would move a java file to a hidden folder on the computer and add a command to a user’s bash_profile that would execute other commands and utilize the hidden java file. The repo also contains a zip file that users can download with instructions for how to use the script and the command that would come from the script. 
+
+**Usage Description:**
+
 This folder contains all the files that were used to create the capabilities of the command "run_live" -- a command that allows you to write one command and get a live debug server up for psiturk (and have the link copied to your clipboard automatically), a process that would normally take numerous steps.
 
 In order to add the alias "run_live" to your .bash_profile, download the Run_Live_Setup.zip file and run the provided shell script. If you need further directions, reference the README in the folder that will appear after unzipping the downloaded file.
